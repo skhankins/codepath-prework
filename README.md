@@ -41,28 +41,29 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 * [x] Easy win
+<div>
 <p>
 <img src="http://g.recordit.co/3sMTcBtErE.gif" width=250><br>
 </p>
+</div>
 * [x] Easy lose
+<div>
 <p>
 <img src="http://g.recordit.co/JefcutXy0P.gif" width=250><br>
 </p>
+ </div>
 * [x] Hard lose 
+<div>
 <p>
 <img src="http://g.recordit.co/UeFdm1zaiu.gif" width=250><br>
 </p>
+ </div>
 
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-<div>
- * https://www.w3schools.com/cssref/pr_font_font-style.asp
- * https://www.w3schools.com/jsref/jsref_random.asp
- * https://www.w3schools.com/js/js_arrays.asp
- * https://www.w3schools.com/cssref/css_colors.asp
- * https://www.w3schools.com/js/js_function_parameters.asp
-</div>
+<p> https://www.w3schools.com/cssref/pr_font_font-style.asp, https://www.w3schools.com/jsref/jsref_random.asp, https://www.w3schools.com/js/js_arrays.asp, https://www.w3schools.com/cssref/css_colors.asp, https://www.w3schools.com/js/js_function_parameters.asp
+</p>
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 <p>
