@@ -4,7 +4,7 @@
 
 Submitted by: **Surina Hankins**
 
-Time spent: **2** hours spent in total
+Time spent: **4** hours spent in total
 
 Link to project: https://seed-southern-sneeze.glitch.me
 
@@ -34,16 +34,18 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [x] Difficulty buttons...
-      -EASY: pattern length = 4, player loses after 3 mistakes
-      -HARD: pattern length = 8, player loses after 1 mistake
+- [x]Easy difficulty: pattern length = 4, player loses after 3 mistakes
+- [x]Hard difficulty: pattern length = 8, player loses after 1 mistake
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![x] Easy win http://g.recordit.co/3sMTcBtErE.gif
-![x] Easy lose http://g.recordit.co/JefcutXy0P.gif
-![x] Hard lose http://g.recordit.co/UeFdm1zaiu.gif
+![x] Easy win 
+<img src="http://g.recordit.co/3sMTcBtErE.gif" width=250><br>
+![x] Easy lose 
+<img src="http://g.recordit.co/JefcutXy0P.gif" width=250><br>
+![x] Hard lose 
+<img src="http://g.recordit.co/UeFdm1zaiu.gif" width=250><br>
 
 
 ## Reflection Questions
