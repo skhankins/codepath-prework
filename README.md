@@ -41,28 +41,28 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 * [x] Easy win
-    <p>
+<p>
 <img src="http://g.recordit.co/3sMTcBtErE.gif" width=250><br>
-    </p>
-* [x] Easy lose 
+</p>
+* [x] Easy lose
 <p>
 <img src="http://g.recordit.co/JefcutXy0P.gif" width=250><br>
-    </p>
+</p>
 * [x] Hard lose 
 <p>
 <img src="http://g.recordit.co/UeFdm1zaiu.gif" width=250><br>
- </p>
+</p>
 
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-<p>
+<div>
  * https://www.w3schools.com/cssref/pr_font_font-style.asp
  * https://www.w3schools.com/jsref/jsref_random.asp
  * https://www.w3schools.com/js/js_arrays.asp
  * https://www.w3schools.com/cssref/css_colors.asp
  * https://www.w3schools.com/js/js_function_parameters.asp
-</p>
+</div>
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 <p>
