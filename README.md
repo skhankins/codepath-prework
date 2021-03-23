@@ -40,27 +40,39 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![x] Easy win
-<div>
+* [x] Easy win
     <p>
 <img src="http://g.recordit.co/3sMTcBtErE.gif" width=250><br>
     </p>
- </div>
-![x] Easy lose 
+* [x] Easy lose 
+<p>
 <img src="http://g.recordit.co/JefcutXy0P.gif" width=250><br>
-![x] Hard lose 
+    </p>
+* [x] Hard lose 
+<p>
 <img src="http://g.recordit.co/UeFdm1zaiu.gif" width=250><br>
+ </p>
 
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[https://www.w3schools.com/cssref/pr_font_font-style.asp, https://www.w3schools.com/jsref/jsref_random.asp, https://www.w3schools.com/js/js_arrays.asp, https://www.w3schools.com/cssref/css_colors.asp, https://www.w3schools.com/js/js_function_parameters.asp]
+<p>
+ * https://www.w3schools.com/cssref/pr_font_font-style.asp
+ * https://www.w3schools.com/jsref/jsref_random.asp
+ * https://www.w3schools.com/js/js_arrays.asp
+ * https://www.w3schools.com/cssref/css_colors.asp
+ * https://www.w3schools.com/js/js_function_parameters.asp
+</p>
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[At first my buttons weren't working properly, after going through some debugging with the console I realized that my name for the buttons in index.html was different from script.js. I also saw some difficulty when adding things related to the frequencies. I had to look more closely at the code so that I understood it better. Before, I just copy pasted the code and had a basic understanding of it. By going through it and testing each frequency myself, I understood it better and was able to implement some of the optional features. I had a lot of trouble trying to implement a timer. I tried looking up a lot of stuff, but in the end I couldn't figure out how to display my timer variable on the page in html. Because I had limited time I decided it was okay to leave out, and instead decided to implement my own feature to make up for it.]
+<p>
+At first my buttons weren't working properly, after going through some debugging with the console I realized that my name for the buttons in index.html was different from script.js. I also saw some difficulty when adding things related to the frequencies. I had to look more closely at the code so that I understood it better. Before, I just copy pasted the code and had a basic understanding of it. By going through it and testing each frequency myself, I understood it better and was able to implement some of the optional features. I had a lot of trouble trying to implement a timer. I tried looking up a lot of stuff, but in the end I couldn't figure out how to display my timer variable on the page in html. Because I had limited time I decided it was okay to leave out, and instead decided to implement my own feature to make up for it.
+ </p>
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[I want to know everything about it. How do you display changing variables on webpages? How do pages store user data such as logins or data from saved online games? How do malware and pop-up ads work? Can you also make objects in JS like you do in C++, how do they work, and what would you use them for?]
+<p>
+I want to know everything about it. How do you display changing variables on webpages? How do pages store user data such as logins or data from saved online games? How do malware and pop-up ads work? Can you also make objects in JS like you do in C++, how do they work, and what would you use them for?
+</p>
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 <p>
