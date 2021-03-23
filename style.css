@@ -1,0 +1,82 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: verdana, arial, sans-serif;
+  margin: 2em;
+  background-color: palevioletred;
+  color: papayawhip;
+}
+
+h1 {
+  font-family: tahoma, arial, sans-serif;
+  font-style: oblique;
+}
+
+button{
+  padding: 10px;
+  border-radius: 30px;
+}
+
+#gameButtonArea > button{
+  width:200px;
+  height:200px;
+  margin:5px;
+}
+
+#startBtn, #stopBtn, #easy, #hard{
+  background: mediumvioletred;
+  color: papayawhip;
+  font-family: verdana, arial, sans-serif;
+}
+
+.hidden{
+  display: none;
+}
+
+#button1{
+  background: crimson;
+}
+
+#button1:active, #button1.lit{
+  background:firebrick;
+}
+
+#button2{
+  background:orange;
+}
+
+#button2:active, #button2.lit{
+  background:darkorange;
+}
+
+#button3{
+  background:yellow;
+}
+
+#button3:active, #button3.lit{
+  background:gold;
+}
+
+#button4{
+  background:springgreen;
+}
+
+#button4:active, #button4.lit{
+  background:mediumseagreen;
+}
+
+#button5{
+  background:aqua;
+}
+
+#button5:active, #button5.lit{
+  background:deepskyblue;
+}
+
+#button6{
+  background:blueviolet;
+}
+
+#button6:active, #button6.lit{
+  background:indigo;
+}
