@@ -40,8 +40,12 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![x] Easy win 
+![x] Easy win
+<div>
+    <p>
 <img src="http://g.recordit.co/3sMTcBtErE.gif" width=250><br>
+    </p>
+ </div>
 ![x] Easy lose 
 <img src="http://g.recordit.co/JefcutXy0P.gif" width=250><br>
 ![x] Hard lose 
@@ -59,7 +63,9 @@ Here's a walkthrough of implemented user stories:
 [I want to know everything about it. How do you display changing variables on webpages? How do pages store user data such as logins or data from saved online games? How do malware and pop-up ads work? Can you also make objects in JS like you do in C++, how do they work, and what would you use them for?]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[I would have figured out a way to display a timer so that the player would have limited time. I'd implement this in my two difficulty settings, so that on the harder setting the player would be timed, but not on the easy difficulty. I would also display the amount of attempts/strikes left. If I had even more time and the knowledge to do so, I'd make my difficulty settings more detailed. On the easy mode clueHoldTime wouldn't decrease and there would be unlimited attempts. I would change my current hard difficulty to be "medium" with 3 strikes, and make a new hard difficulty with an even longer pattern, shorter clueHoldTime, and no strikes. I would also potentially give the player the option to choose the pattern length manually.]
+<p>
+I would have figured out a way to display a timer so that the player would have limited time. I'd implement this in my two difficulty settings, so that on the harder setting the player would be timed, but not on the easy difficulty. I would also display the amount of attempts/strikes left. If I had even more time and the knowledge to do so, I'd make my difficulty settings more detailed. On the easy mode clueHoldTime wouldn't decrease and there would be unlimited attempts. I would change my current hard difficulty to be "medium" with 3 strikes, and make a new hard difficulty with an even longer pattern, shorter clueHoldTime, and no strikes. I would also potentially give the player the option to choose the pattern length manually.
+</p>
 
 
 
