@@ -40,24 +40,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-* [x] Easy win
-<div>
-<p>
-<img src="http://g.recordit.co/3sMTcBtErE.gif" width=250><br>
-</p>
-</div>
-* [x] Easy lose
-<div>
-<p>
-<img src="http://g.recordit.co/JefcutXy0P.gif" width=250><br>
-</p>
- </div>
-* [x] Hard lose 
-<div>
-<p>
-<img src="http://g.recordit.co/UeFdm1zaiu.gif" width=250><br>
-</p>
- </div>
+* [x] Easy win <p><img src="http://g.recordit.co/3sMTcBtErE.gif" width=250><br></p>
+* [x] Easy lose <p><img src="http://g.recordit.co/JefcutXy0P.gif" width=250><br></p>
+* [x] Hard lose <p><img src="http://g.recordit.co/UeFdm1zaiu.gif" width=250><br></p>
 
 
 ## Reflection Questions
